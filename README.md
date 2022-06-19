@@ -1,6 +1,5 @@
 # CClin 끌린
 
-#### 학생단체와 기업을 연결함으로써 네트워크를 구축하고 새로운 가치를 창출하는 플랫폼
 </br>
 
 <center><img src = "https://user-images.githubusercontent.com/66013544/174464133-780e128c-4c8d-44d1-80c6-c86d03d6c1f7.jpeg" width="500"></center>
